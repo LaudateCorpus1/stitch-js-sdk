@@ -5,7 +5,7 @@
 		"@types/jest": "^23.1.0",
 		"@types/jsonwebtoken": "^7.2.6",
 		"jest-junit": "^5.1.0",
-		"jsonwebtoken": "8.2.1",
+		"jsonwebtoken": "9.0.0",
 		"lcov-result-merger": "^3.0.0",
 		"lerna": "^3.13.2",
 		"npm": "^6.4.1",
